@@ -188,7 +188,7 @@ return [
                 */
 
                 'admin_username' => env('ADLDAP_ADMIN_USERNAME', 'SUPREAL\Administrator'),
-                'admin_password' => env('ADLDAP_ADMIN_PASSWORD', 'c87hjk0304'),
+                'admin_password' => env('ADLDAP_ADMIN_PASSWORD', 'admin'),
 
                 /*
                 |--------------------------------------------------------------------------
